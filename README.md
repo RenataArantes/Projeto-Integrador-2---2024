@@ -4,8 +4,7 @@ https://github.com/batista29/Footbet
 https://github.com/GustavoKurten1/ProjetoIntegrador2
 https://github.com/matheusalvesedu/Plataforma-Aposta
 https://github.com/QuantumBetPI2/Projeto
-GuilhermeBars
-Projeto_Integrador-II_Turma_2
+
 
 
 
